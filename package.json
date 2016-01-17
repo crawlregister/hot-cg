@@ -1,15 +1,15 @@
 {
-  "name": "handsontable",
-  "description": "Spreadsheet-like data grid editor that provides copy/paste functionality compatible with Excel/Google Docs",
-  "homepage": "http://handsontable.com/",
+  "name": "hot-cg",
+  "description": "Study handsontable and make some changes base on that",
+  "homepage": "https://github.com/crawlregister/hot-cg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/handsontable/handsontable.git"
+    "url": "https://github.com/crawlregister/hot-cg.git"
   },
   "bugs": {
-    "url": "https://github.com/handsontable/handsontable/issues"
+    "url": "https://github.com/crawlregister/hot-cg/issues"
   },
-  "author": "Handsoncode <hello@handsontable.com>",
+  "author": "Craw Register <crawlregister@gmail.com>",
   "version": "0.20.3",
   "keywords": [
     "data",
