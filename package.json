@@ -10,7 +10,7 @@
     "url": "https://github.com/crawlregister/hot-cg/issues"
   },
   "author": "Craw Register <crawlregister@gmail.com>",
-  "version": "20.20.3",
+  "version": "21.20.3",
   "keywords": [
     "data",
     "grid",
@@ -40,7 +40,7 @@
     "grunt-gitinfo": "~0.1.6",
     "grunt-jscs": "^2.5.0",
     "grunt-saucelabs": "~8.3.3",
-    "hot-builder-cg": "^0.4.1",
+    "hot-builder-cg": "~21.4.1",
     "load-grunt-tasks": "^3.3.0",
     "time-grunt": "^1.2.2"
   },
